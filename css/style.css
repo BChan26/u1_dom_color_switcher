@@ -46,3 +46,11 @@ p {
 .yellow {
   background-color: yellow;
 }
+
+.gradientC {
+  background-color: purple;
+}
+
+.gradientG {
+  background-image: linear-gradient(to right, darkolivegreen, rgb(0, 255, 242));
+  }
